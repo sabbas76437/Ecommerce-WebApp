@@ -1,0 +1,81 @@
+body{
+    background-image: url("../images/asd.jpg");
+}
+.container {
+    /*border: 1px solid red;*/
+    display: inline-block;
+    box-shadow: 10px 10px 10px;
+    width: 80%;
+    margin-top: 150px;
+    margin-left: 150px;
+    background-color: whitesmoke;
+    
+}
+
+.container img{
+   
+    padding-right: 100px;
+}
+/*.head {
+    border: 1px solid red;
+    display: inline-block;
+    box-shadow: 10px 10px 10px;
+    width: 80%;
+    margin-left: 150px;
+}*/
+
+/*This is for menu*/
+
+.head ul li {
+
+
+    float: left;
+    margin-left: 10px;
+    list-style: none;
+}
+
+.head ul {
+
+    margin-left: 25px;
+    padding-bottom: 20px;
+
+}
+
+.head ul li a {
+    text-decoration: none;
+    color: black;
+    margin-left: 100px;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+
+.head ul li a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.body {
+
+    
+}
+
+/*this is for social*/
+.social{
+display: inline-block;
+position: fixed;
+    
+}
+
+.social ul li{
+
+    list-style: none;
+     padding-bottom: 70px;
+}
+.social a{
+    text-decoration: none;
+display: inline-block;
+position: fixed;
+   
+    
+}

@@ -1,0 +1,63 @@
+body{
+padding-top: :50 px;
+}
+
+#navbar{
+/*background-color: #FFF0000;*/
+  background-color: #84c2de;
+
+}
+
+/*changing color to white*/
+#text{
+
+  /*background-color: #000000;*/
+  color: #FFFFFF;
+}
+#background-image{
+  position: relative;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+   height: 600px;
+  background-image: url(../images/mblue.png);
+  background-repeat: no-repeat;
+  background-size: 100% 700px;
+  background-position: top center;
+  background-attachment: fixed;
+}
+#footer{
+  margin-top: 50px;
+  background-color: ##84c2de;
+  color: #FFFFFF;
+}
+
+
+#button{
+  background-color:#84c2de;
+  border: none;
+  color: white;
+}
+
+
+#images{
+
+  width: 200px;
+  height: 200px;
+}
+#quantity{
+
+  margin-left: -18px;
+}
+
+#quantity-label{
+  margin-left: -18px;
+}
+
+img.details{
+  width: 400px auto;
+  margin:15px auto;
+  height: 350px;
+
+
+}
